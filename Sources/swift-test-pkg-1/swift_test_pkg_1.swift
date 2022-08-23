@@ -1,3 +1,3 @@
-struct swift_test_pkg_1 {
+struc swift_test_pkg_1 {
     var text = "Hello, World!"
 }
