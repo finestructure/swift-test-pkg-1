@@ -3,6 +3,8 @@
 
 import PackageDescription
 
+fatalError("intentionally broken package manifest")
+
 let package = Package(
     name: "swift-test-pkg-1",
     products: [
